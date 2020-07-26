@@ -1,0 +1,26 @@
+/*
+.header, .hero,.body,.bar,.footer{
+    background-color:#031827;
+    
+}
+*/
+body{
+    background-color:#031827;
+}
+.box {
+   min-height: 80px;
+    background-color: #fff;
+    margin-bottom: 10px;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+
+.black{
+    background-color: aquamarine;
+}
+.text h1{
+    color: white;
+}
